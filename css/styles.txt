@@ -1,0 +1,14 @@
+notebook styles
+
+acquisition - #A3F6ED
+collaboration - #FED712
+discussion - #7CA3E9
+investigation - #F7827F
+practice - #
+production - #
+
+-----------------------------
+
+
+
+
